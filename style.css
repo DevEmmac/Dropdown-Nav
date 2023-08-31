@@ -118,30 +118,30 @@ nav  {
     gap: 1rem;
     padding: 0.8rem;
     border-radius: 10px;
-    font-size: 0.2rem;
-    box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.75);
+    font-size: 0.8rem;
+    box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.20);
 }
 
 .one {
-    bottom: -157px;
+    bottom: -145px;
     right: 0;
     width: 8rem;
 }
 
 .two {
-    bottom: -157px; 
+    bottom: -140px; 
     width: 7rem;  
 }
 
 .three {
-    bottom: -157px;
+    bottom: -140px;
     width: 7rem;
 }
 
 .four {
-    bottom: -157px;
-    width: 9rem;
-    font-size: 0.2rem;  
+    bottom: -139px;
+    width: 8rem;
+    font-size: 0.8rem;  
 }
 
 .sub-menu .sub-link {
@@ -259,7 +259,7 @@ main {
     }
 
     .overflow {
-        background-color: black;
+        background-color: blue;
         display: none;
         position: absolute;
         top: 0;
